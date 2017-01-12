@@ -1,2 +1,8 @@
-# Bala
-Code
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+printf("hello bala");
+getch();
+}
